@@ -42,6 +42,10 @@ In summary, the CampusCare web application for the IIUM Clinic integrates essent
 
 ERD
 
+![ER_Diagram_IIUM_Clinic](https://github.com/user-attachments/assets/7ee7c254-693e-4647-9b02-f7b4e6a200b6)
+
+
+
 SEQUENCE DIAGRAM
 
 REFERENCE
